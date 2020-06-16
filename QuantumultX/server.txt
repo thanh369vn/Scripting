@@ -1,6 +1,6 @@
 #shadowsocks=rich-chiller-264004.web.app:443, method=aes-256-gcm, password=.shdqqy2ruAzJK6EAy(T, fast-open=false, udp-relay=false, tag=Fake iAP Server 01
 #shadowsocks=rich-chiller-264004.web.app:443, method=aes-256-gcm, password=.shdqqy2ruAzJK6EAy(T, fast-open=false, udp-relay=false, tag=Fake iAP Server 02
 #shadowsocks=rich-chiller-264004.web.app:443, method=aes-256-gcm, password=.shdqqy2ruAzJK6EAy(T, fast-open=false, udp-relay=false, tag=Fake iAP Server 03
-http=rich-chiller-264004.web.app:443, username=name, password=pwd, over-tls=true, tls-host=rich-chiller-264004.web.app, tls-verification=false, fast-open=false, udp-relay=false, tag=Fake iAP Server 01
-http=rich-chiller-264004.web.app:443, username=name, password=pwd, over-tls=true, tls-host=rich-chiller-264004.web.app, tls-verification=false, fast-open=false, udp-relay=false, tag=Fake iAP Server 02
-http=rich-chiller-264004.web.app:443, username=name, password=pwd, over-tls=true, tls-host=rich-chiller-264004.web.app, tls-verification=false, fast-open=false, udp-relay=false, tag=Fake iAP Server 03
+http=rich-chiller-264004.web.app:443, username=name, password=pwd, over-tls=true, tls-host=rich-chiller-264004.web.app, tls-verification=true, fast-open=false, udp-relay=false, tag=Fake iAP Server 01
+http=rich-chiller-264004.web.app:443, username=name, password=pwd, over-tls=true, tls-host=rich-chiller-264004.web.app, tls-verification=true, fast-open=false, udp-relay=false, tag=Fake iAP Server 02
+http=rich-chiller-264004.web.app:443, username=name, password=pwd, over-tls=true, tls-host=rich-chiller-264004.web.app, tls-verification=true, fast-open=false, udp-relay=false, tag=Fake iAP Server 03
