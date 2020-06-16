@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 #https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-OTA.conf, tag=🇻🇳hostsVN-OTA, force-policy=Chặn OTA, enabled=true
 #https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-FB.conf, tag=🇻🇳hostsVN-FB, force-policy=Chặn FB, enabled=true
 
-[rewrite_remote]
+[rewrite_local]
 https://raw.githubusercontent.com/thanh369vn/Scripting/master/QuantumultX/Fake_Local-workingcopy.txt, tag=Fake iAP Local Lãng Khách, enabled=true
-https://raw.githubusercontent.com/thanh369vn/Scripting/master/QuantumultX/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
+#https://raw.githubusercontent.com/thanh369vn/Scripting/master/QuantumultX/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
 
 [server_local]
 
