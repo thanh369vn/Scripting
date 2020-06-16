@@ -20,6 +20,7 @@ static=Chặn Ads, BẬT, TẮT, img-url=https://github.com/Koolson/Qure/raw/mas
 static=Chặn FB, TẮT, BẬT, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/Facebook.png
 
 [server_remote]
+[rewrite_remote]
 
 
 [filter_remote]
