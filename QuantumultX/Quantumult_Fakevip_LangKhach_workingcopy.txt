@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 
 [rewrite_local]
 https://raw.githubusercontent.com/thanh369vn/Scripting/master/QuantumultX/Fake_Local-workingcopy.txt, tag=Fake iAP Local Lãng Khách, enabled=true
-#https://raw.githubusercontent.com/thanh369vn/Scripting/master/QuantumultX/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
+https://raw.githubusercontent.com/thanh369vn/Scripting/master/QuantumultX/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
 
 [server_local]
 
