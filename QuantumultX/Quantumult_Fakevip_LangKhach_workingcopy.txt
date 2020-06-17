@@ -1,3 +1,11 @@
+[general]
+#profile_img_url= https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/1.PNG
+udp_whitelist=53, 1024-65535
+
+[dns]
+server=1.1.1.2
+server=8.8.8.8
+
 [policy]
 available=Tự Động, Fake iAP Server 01, Fake iAP Server 02, Fake iAP Server 03, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png
 static=Tuỳ Chọn, Fake iAP Server 01, Fake iAP Server 02, Fake iAP Server 03, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Static.png
