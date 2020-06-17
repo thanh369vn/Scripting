@@ -3,4 +3,6 @@
 ; ^https://api\.lingokids\.com/ url 307 https://rich-chiller-264004\.web\.app/
 ; ^https://www\.api\.monkeyuni\.net/ url 307 https://rich-chiller-264004\.web\.app/
 ; ^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update url script-response-body langkhach/monkey.js
-^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update url 307 https://rich-chiller-264004\.web\.app/
+; ^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update url 307 https://rich-chiller-264004\.web\.app/
+
+^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update url script-response-body langkhach/monkey.js
