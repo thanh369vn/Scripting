@@ -1,4 +1,4 @@
 ; hostname line is optional.
 hostname = api.lingokids.com, *.api.monkeyuni.net
-^https://api\.lingokids\.com/ url 302 https://rich-chiller-264004\.web\.app/
-^https://www\.api\.monkeyuni\.net/ url 302 https://rich-chiller-264004\.web\.app/
+^https?://api\.lingokids\.com/ url 302 https://rich-chiller-264004\.web\.app/
+^https?://www\.api\.monkeyuni\.net/ url 302 https://rich-chiller-264004\.web\.app/
